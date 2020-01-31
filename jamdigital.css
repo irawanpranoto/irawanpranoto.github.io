@@ -1,0 +1,27 @@
+h1,
+h2,
+p {
+    font-family: Georgia;
+    font-weight: bold;
+}
+
+.Jam-Digital {
+    overflow: hidden;
+    width: 330px;
+    margin: 20px auto;
+    border: 5px skyblue;
+}
+
+.kotak {
+    float: left;
+    width: 110px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.Jam-Digital p {
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
